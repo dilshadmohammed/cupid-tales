@@ -10,7 +10,7 @@
         body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
-            padding: 0;
+            padding: 20px;
             background: linear-gradient(to right, #ff9a9e, #fad0c4);
             text-align: center;
             color: #5a0e0e;
@@ -68,6 +68,10 @@
         p {
             color: #5a0e0e;
         }
+        .instagram {
+            text-decoration: none;
+            color: #d9534f;
+        }
     </style>
 </head>
 <body>
@@ -100,9 +104,11 @@
                     
                     if (filteredPairs.length > 0) {
                         filteredPairs.forEach(pair => {
-                            const pairNames = `<strong>${pair.Name1}</strong> (${pair.Class1})<br> ❤️ <br>
+                            const pairNames = `<strong>${pair.Name1}</strong> (${pair.Class1})
+                            <br><a class="instagram" href="https://instagram.com/${pair.Insta1}/">@${pair.Insta1}</a><br>
+                            <br> ❤️ <br>
                                                <strong>${pair.Name2}</strong> (${pair.Class2})<br>
-                                               <strong>Treasure Hunt: ${pair.TreasureHunt}`;
+                                               <br><a class="instagram" href="https://instagram.com/${pair.Insta2}/">@${pair.Insta2}</a><br>`;
                             outputDiv.innerHTML += `<div class="card"><p>${pairNames}</p></div>`;
                             alreadyPaired.add(pair.Name1.toLowerCase());
                             alreadyPaired.add(pair.Name2.toLowerCase());
