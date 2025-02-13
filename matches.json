@@ -132,10 +132,10 @@
         "TreasureHunt": "No"
     },
     {
-        "Name1": "MUHSINA",
-        "Gender1": "Female",
-        "Insta1": "muh__si__na_",
-        "Class1": "S4 ECB",
+        "Name1": "ABIN JOSE J",
+        "Gender1": "Male",
+        "Insta1": "abbb.iin",
+        "Class1": "S2CEA",
         "Name2": "ABHINANDH.R",
         "Gender2": "Male",
         "Insta2": "_abhinandh_r",
@@ -158,10 +158,10 @@
         "Gender1": "Female",
         "Insta1": "san._.dr_a",
         "Class1": "S4 CSE ",
-        "Name2": "ANAND KRISHNA",
+        "Name2": "BITHOV K",
         "Gender2": "Male",
-        "Insta2": "a_n_a_n_d_1_3_3_2",
-        "Class2": "S4CEA",
+        "Insta2": "Bithov_k",
+        "Class2": "S6 ECE A",
         "TreasureHunt": "No"
     },
     {
@@ -345,10 +345,10 @@
         "Gender1": "Male",
         "Insta1": "_hrishi_4real",
         "Class1": "S2 MA",
-        "Name2": "KP Vishnu",
+        "Name2": "ANAND BALAKRISHNAN M",
         "Gender2": "Male",
-        "Insta2": "kp._vishkyoo",
-        "Class2": "S8CB",
+        "Insta2": "anand_balakrishnan14",
+        "Class2": "S6 ICE",
         "TreasureHunt": "Yes / No"
     },
     {
@@ -407,10 +407,10 @@
         "TreasureHunt": "Yes / Yes"
     },
     {
-        "Name1": "BITHOV K",
+        "Name1": "ANAND KRISHNA",
         "Gender1": "Male",
-        "Insta1": "Bithov_k",
-        "Class1": "S6 ECE A",
+        "Insta1": "a_n_a_n_d_1_3_3_2",
+        "Class1": "S4CEA",
         "Name2": "Saikeerth T ",
         "Gender2": "Male",
         "Insta2": "saikeerth_t",
@@ -543,10 +543,10 @@
         "Gender1": "Male",
         "Insta1": "muhammed__nazil",
         "Class1": "S8MEB",
-        "Name2": "ABIN JOSE J",
-        "Gender2": "Male",
-        "Insta2": "abbb.iin",
-        "Class2": "S2CEA",
+        "Name2": "MUHSINA",
+        "Gender2": "Female",
+        "Insta2": "muh__si__na_",
+        "Class2": "S4 ECB",
         "TreasureHunt": "No / Yes"
     },
     {
@@ -560,17 +560,7 @@
         "Class2": "S4 CSE",
         "TreasureHunt": "No / No"
     },
-    {
-        "Name1": "Athul KS",
-        "Gender1": "Male",
-        "Insta1": "athu_lks",
-        "Class1": "S6ECA",
-        "Name2": "ANAND BALAKRISHNAN M",
-        "Gender2": "Male",
-        "Insta2": "anand_balakrishnan14",
-        "Class2": "S6 ICE",
-        "TreasureHunt": "No / No"
-    },
+    
     {
         "Name1": "S amrudhesh",
         "Gender1": "Male",
