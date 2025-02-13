@@ -1,0 +1,308 @@
+[
+    {
+        "Name1": "GANISHKA.P",
+        "Gender1": "Female",
+        "Class1": "S2 CE-A",
+        "Name2": "SREEHARSHAN AH",
+        "Gender2": "Male",
+        "Class2": "S4EB",
+        "TreasureHunt": "Yes"
+    },
+    {
+        "Name1": "VARSHA V",
+        "Gender1": "Female",
+        "Class1": "S6 ICE",
+        "Name2": "ANURUDH RADHAKRISHNAN",
+        "Gender2": "Male",
+        "Class2": "S4 ECA",
+        "TreasureHunt": "Yes"
+    },
+    {
+        "Name1": "NEHLA BIJU ",
+        "Gender1": "Female",
+        "Class1": "S2 MB",
+        "Name2": "AVIN.P.V",
+        "Gender2": "Male",
+        "Class2": "S8 EE A",
+        "TreasureHunt": "Yes"
+    },
+    {
+        "Name1": "ANASWARA ",
+        "Gender1": "Female",
+        "Class1": "S8EEA",
+        "Name2": "ANUMODH P PRASAD ",
+        "Gender2": "Male",
+        "Class2": "S6 ICE",
+        "TreasureHunt": "Yes"
+    },
+    {
+        "Name1": "HANA N",
+        "Gender1": "Female",
+        "Class1": "S2 IC",
+        "Name2": "AMAL ",
+        "Gender2": "Male",
+        "Class2": "S6 MEB",
+        "TreasureHunt": "Yes"
+    },
+    {
+        "Name1": "adhi",
+        "Gender1": "Female",
+        "Class1": "S8CB",
+        "Name2": "ABHINAV K S ",
+        "Gender2": "Male",
+        "Class2": "S6 ICE",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "SHRADHA",
+        "Gender1": "Female",
+        "Class1": "S8EEA",
+        "Name2": "SREEHARSHAN AH ",
+        "Gender2": "Male",
+        "Class2": "S4EEB",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "NANDANA KRISHNADAS ",
+        "Gender1": "Female",
+        "Class1": "S4 CSE",
+        "Name2": "ANUJITH KRISHNA K",
+        "Gender2": "Male",
+        "Class2": "S8 CA",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "CHAITHRA EK",
+        "Gender1": "Female",
+        "Class1": "S4 ECA",
+        "Name2": "ABHINANDH.R",
+        "Gender2": "Male",
+        "Class2": "S8CA",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "NIMISHA S",
+        "Gender1": "Female",
+        "Class1": "S2 CSE",
+        "Name2": "CHITHARANJAN ",
+        "Gender2": "Male",
+        "Class2": "S6 ICE",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "ANAGHA TJ",
+        "Gender1": "Female",
+        "Class1": "S8CA",
+        "Name2": "ABIJITH C B",
+        "Gender2": "Male",
+        "Class2": "S8CB",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "SANDRA SURESH PANICKER ",
+        "Gender1": "Female",
+        "Class1": "S4 CSE ",
+        "Name2": "ANAND KRISHNA",
+        "Gender2": "Male",
+        "Class2": "S4CEA",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "NANDANA VINU",
+        "Gender1": "Female",
+        "Class1": "S4 CSE",
+        "Name2": "NEERAJ ",
+        "Gender2": "Male",
+        "Class2": "S6 CEB",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "MUHSINA",
+        "Gender1": "Female",
+        "Class1": "S4 ECB",
+        "Name2": "KARAN GEORGE",
+        "Gender2": "Male",
+        "Class2": "S4 ECA",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "ANASWARA C M",
+        "Gender1": "Female",
+        "Class1": "S4 CEA",
+        "Name2": "Shabeeh K",
+        "Gender2": "Male",
+        "Class2": "S8 MB",
+        "TreasureHunt": "No"
+    },
+    {
+        "Name1": "Sreekrishnan B",
+        "Gender1": "Male",
+        "Class1": "S6 MEB",
+        "Name2": "ANSHAD A",
+        "Gender2": "Male",
+        "Class2": "S6 ICE",
+        "TreasureHunt": "Yes / No"
+    },
+    {
+        "Name1": "Darren Thomas ",
+        "Gender1": "Male",
+        "Class1": "S6MEA",
+        "Name2": "ASWIN KP",
+        "Gender2": "Male",
+        "Class2": "S4 CEA",
+        "TreasureHunt": "No / No"
+    },
+    {
+        "Name1": "AMRUTHAVARSHAN ",
+        "Gender1": "Male",
+        "Class1": "S8 EEA",
+        "Name2": "AMRUTHAVARSHAN ",
+        "Gender2": "Male",
+        "Class2": "S8 EEA ",
+        "TreasureHunt": "Yes / No"
+    },
+    {
+        "Name1": "Vineesh K",
+        "Gender1": "Male",
+        "Class1": "S8CB",
+        "Name2": "SAI KIRAN",
+        "Gender2": "Male",
+        "Class2": "S4 ECA",
+        "TreasureHunt": "No / Yes"
+    },
+    {
+        "Name1": "ACHU MJ",
+        "Gender1": "Male",
+        "Class1": "S4 ECA",
+        "Name2": "DELFIN DAVIS ",
+        "Gender2": "Male",
+        "Class2": "S4CSE",
+        "TreasureHunt": "Yes / No"
+    },
+    {
+        "Name1": "AKSHAY C",
+        "Gender1": "Male",
+        "Class1": "S6 ICE",
+        "Name2": "AJITH RAJ",
+        "Gender2": "Male",
+        "Class2": "S6 EA",
+        "TreasureHunt": "Yes / No"
+    },
+    {
+        "Name1": "NAVEEN S",
+        "Gender1": "Male",
+        "Class1": "S8 CE B",
+        "Name2": "MIDHUN RAJ N",
+        "Gender2": "Male",
+        "Class2": "S8 EEA",
+        "TreasureHunt": "No / No"
+    },
+    {
+        "Name1": "ABHISHEK MENON",
+        "Gender1": "Male",
+        "Class1": "S8 EEA",
+        "Name2": "ABHINAND PC",
+        "Gender2": "Male",
+        "Class2": "S2 CEA",
+        "TreasureHunt": "No / Yes"
+    },
+    {
+        "Name1": "ACHAL MANOJ",
+        "Gender1": "Male",
+        "Class1": "S2 CEA",
+        "Name2": "ABHISHEK B",
+        "Gender2": "Male",
+        "Class2": "S2 CEA",
+        "TreasureHunt": "No / No"
+    },
+    {
+        "Name1": "Asvanth p",
+        "Gender1": "Male",
+        "Class1": "S6 MA",
+        "Name2": "KIRANRAJ R",
+        "Gender2": "Male",
+        "Class2": "S2 MA",
+        "TreasureHunt": "No / Yes"
+    },
+    {
+        "Name1": "Vivek VK",
+        "Gender1": "Male",
+        "Class1": "S2CEB",
+        "Name2": "SREERAM K IYER",
+        "Gender2": "Male",
+        "Class2": "S8 EEA",
+        "TreasureHunt": "No / No"
+    },
+    {
+        "Name1": "VISWAJITH K B",
+        "Gender1": "Male",
+        "Class1": "S6 ICE",
+        "Name2": "S amrudhesh",
+        "Gender2": "Male",
+        "Class2": "S6 ICE",
+        "TreasureHunt": "Yes / Yes"
+    },
+    {
+        "Name1": "Amal PY",
+        "Gender1": "Male",
+        "Class1": "S8EA",
+        "Name2": "Athul krishna",
+        "Gender2": "Male",
+        "Class2": "S8EA",
+        "TreasureHunt": "Yes / Yes"
+    },
+    {
+        "Name1": "ABIN JOSE J",
+        "Gender1": "Male",
+        "Class1": "S2CEA",
+        "Name2": "Anandhu.R",
+        "Gender2": "Male",
+        "Class2": "S2CEA ",
+        "TreasureHunt": "Yes / Yes"
+    },
+    {
+        "Name1": "JOEL POULOSE",
+        "Gender1": "Male",
+        "Class1": "S2-IC",
+        "Name2": "EIBEL ",
+        "Gender2": "Male",
+        "Class2": "S4 CSE",
+        "TreasureHunt": "Yes / No"
+    },
+    {
+        "Name1": "HANEEN PK",
+        "Gender1": "Male",
+        "Class1": "S8 MEA",
+        "Name2": "Parul sharma ",
+        "Gender2": "Male",
+        "Class2": "S4 Cse",
+        "TreasureHunt": "No / Yes"
+    },
+    {
+        "Name1": "EVIN JOMON",
+        "Gender1": "Male",
+        "Class1": "S6CEA",
+        "Name2": "HRISHIKESH.R",
+        "Gender2": "Male",
+        "Class2": "S2 MA",
+        "TreasureHunt": "No / Yes"
+    },
+    {
+        "Name1": "Eibel J Cherayath",
+        "Gender1": "Male",
+        "Class1": "S4 CSE",
+        "Name2": "Dayanand C R",
+        "Gender2": "Male",
+        "Class2": "S6CEA",
+        "TreasureHunt": "No / No"
+    },
+    {
+        "Name1": "ANAND BALAKRISHNAN M",
+        "Gender1": "Male",
+        "Class1": "S6 ICE",
+        "Name2": "Anandhu.R ",
+        "Gender2": "Male",
+        "Class2": "S2CEA ",
+        "TreasureHunt": "No / No"
+    }
+]
